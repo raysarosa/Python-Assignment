@@ -42,9 +42,9 @@ A final step includes visualizing the clustering result using `matplotlib`.
 
 ## 📁 Project Structure
 
-📦 your_repo/
-├── python_assignment.ipynb     # Jupyter notebook with all solutions
-└── README.md                   # This file
+📦 your_repo/ <br>
+├── python_assignment.ipynb     # Jupyter notebook with all solutions <br>
+└── README.md                   # This file <br>
 
 ## 🧪 How to Run
 
