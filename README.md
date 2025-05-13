@@ -42,7 +42,6 @@ A final step includes visualizing the clustering result using `matplotlib`.
 
 ## 📁 Project Structure
 
-```bash
 📦 your_repo/
 ├── python_assignment.ipynb     # Jupyter notebook with all solutions
 └── README.md                   # This file
@@ -51,10 +50,3 @@ A final step includes visualizing the clustering result using `matplotlib`.
 
 - Open `python_assignment.ipynb` in Jupyter Notebook.
 - Execute each cell to test the code.
-
-### For K-Means testing:
-
-```python
-kmeans = KMeans(k=2, max_iters=100)
-kmeans.fit(test_data)
-print(kmeans.get_labels(test_data))
